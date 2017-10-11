@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution {
 public:
-    string convert(string s, int numRows) {
+    string convertOld001(string s, int numRows) {
         if(s.size() <= 2 || numRows == 1)
             return s;
         string str = "";
