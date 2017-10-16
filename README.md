@@ -13,11 +13,15 @@
 		<td>leet005_longestPalindrome.cpp</td>
 	</tr>
     <tr>
-		<td><a href="https://leetcode.com/problems/zigzag-conversion/description/">15. 3Sum</a></td>
+		<td><a href="https://leetcode.com/problems/zigzag-conversion/description/">6. ZigZag Conversion</a></td>
 		<td>leet006_convert.cpp</td>
 	</tr>
     <tr>
-		<td><a href="https://leetcode.com/problems/3sum/description/">6.ZigZag Conversion</a></td>
+		<td><a href="https://leetcode.com/problems/3sum/description/">15. 3Sum</a></td>
 		<td>leet015_threeSum.cpp</td>
+	</tr>
+    <tr>
+		<td><a href="https://leetcode.com/problems/3sum-closest/description/">16. 3Sum Closest</a></td>
+		<td>leet16_threeSumClosest.cpp.cpp</td>
 	</tr>
 </table>
