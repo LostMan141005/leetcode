@@ -22,6 +22,10 @@
 	</tr>
     <tr>
 		<td><a href="https://leetcode.com/problems/3sum-closest/description/">16. 3Sum Closest</a></td>
-		<td>leet16_threeSumClosest.cpp.cpp</td>
+		<td>leet16_threeSumClosest.cpp</td>
+	</tr>
+    <tr>
+		<td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">17. Letter Combinations of a Phone Number</a></td>
+		<td>leet17_letterCombinations.cpp</td>
 	</tr>
 </table>
