@@ -28,4 +28,8 @@
 		<td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">17. Letter Combinations of a Phone Number</a></td>
 		<td>leet17_letterCombinations.cpp</td>
 	</tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/4sum/description/">18. 4Sum</a></td>
+		<td>leet018_fourSum.cpp</td>
+	</tr>
 </table>
