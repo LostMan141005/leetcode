@@ -32,4 +32,20 @@
 		<td><a href="https://leetcode.com/problems/4sum/description/">18. 4Sum</a></td>
 		<td>leet018_fourSum.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/">19. Remove Nth Node From End of List</a></td>
+		<td>leet019_removeNthFromEnd.cpp</td>
+	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/valid-parentheses/description/">20. Valid Parentheses</a></td>
+		<td>leet020_isValid.cpp</td>
+	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">21. Merge Two Sorted Lists</a></td>
+		<td>leet021_mergeTwoLists.cpp</td>
+	</tr>
 </table>
+
