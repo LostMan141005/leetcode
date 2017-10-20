@@ -61,28 +61,38 @@ public:
                 r = l + d - 1;
                 int mid = d / 2;
                 bool flag = true;
-                if(d & 1){
-                    for(int k = 0; k < mid; k++){
-                        if(s[l+k] != s[r-k]){
-                            flag = false;
-                            break;
-                        }
-                    }
-                    if(flag){
-                        d = 0;
+                // if(d & 1){
+                    // for(int k = 0; k < mid; k++){
+                        // if(s[l+k] != s[r-k]){
+                            // flag = false;
+                            // break;
+                        // }
+                    // }
+                    // if(flag){
+                        // d = 0;
+                        // break;
+                    // }
+                // }else{
+                    // for(int k = 0; k < mid; k++){
+                        // if(s[l+k] != s[r-k]){
+                            // flag = false;
+                            // break;
+                        // }
+                    // }
+                    // if(flag){
+                        // d = 0;
+                        // break;
+                    // }
+                // }
+                for(int k = 0; k < mid; k++){
+                    if(s[l+k] != s[r-k]){
+                        flag = false;
                         break;
                     }
-                }else{
-                    for(int k = 0; k < mid; k++){
-                        if(s[l+k] != s[r-k]){
-                            flag = false;
-                            break;
-                        }
-                    }
-                    if(flag){
-                        d = 0;
-                        break;
-                    }
+                }
+                if(flag){
+                    d = 0;
+                    break;
                 }
             }
         }
@@ -95,14 +105,14 @@ public:
 
 
 int main() {
-    string str = "babad";
+    string str = "cbbd";
     Solution su;
     cout<<su.longestPalindrome(str);
 	return 0;
 }
 
-class Solution {
-public:
+// class Solution {
+// public:
     string longestPalindrome(string s) {
         if (s.size()<=1) 
             return s;
@@ -128,5 +138,5 @@ public:
         }
         return s.substr(min_left, max_len);
     }
-};
+// };
 

@@ -47,5 +47,10 @@
 		<td><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">21. Merge Two Sorted Lists</a></td>
 		<td>leet021_mergeTwoLists.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/generate-parentheses/description/">22. Generate Parentheses</a></td>
+		<td>leet022_generateParenthesis.cpp</td>
+	</tr>
 </table>
 
