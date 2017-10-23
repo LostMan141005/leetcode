@@ -52,5 +52,10 @@
 		<td><a href="https://leetcode.com/problems/generate-parentheses/description/">22. Generate Parentheses</a></td>
 		<td>leet022_generateParenthesis.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/merge-k-sorted-lists/discuss/">23. Merge k Sorted Lists</a></td>
+		<td>leet023_mergeKLists.cpp</td>
+	</tr>
 </table>
 
