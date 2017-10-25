@@ -62,5 +62,10 @@
 		<td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/description/">24. Swap Nodes in Pairs</a></td>
 		<td>leet024_swapPairs.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/">25. Reverse Nodes in k-Group</a></td>
+		<td>leet025_reverseKGroup.cpp</td>
+	</tr>
 </table>
 
