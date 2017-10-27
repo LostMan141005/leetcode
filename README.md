@@ -67,5 +67,15 @@
 		<td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/">25. Reverse Nodes in k-Group</a></td>
 		<td>leet025_reverseKGroup.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">26. Remove Duplicates from Sorted Array</a></td>
+		<td>leet026_removeDuplicates.cpp</td>
+	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/divide-two-integers/description/">29. Divide Two Integers</a></td>
+		<td>leet029_divide.cpp</td>
+	</tr>
 </table>
 
