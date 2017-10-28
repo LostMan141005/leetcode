@@ -77,5 +77,10 @@
 		<td><a href="https://leetcode.com/problems/divide-two-integers/description/">29. Divide Two Integers</a></td>
 		<td>leet029_divide.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/">30. Substring with Concatenation of All Words</a></td>
+		<td>leet030_findSubstring.cpp</td>
+	</tr>
 </table>
 
