@@ -10,7 +10,7 @@ public:
         if(divisor == 1) return dividend;
         if(dividend == INT_MIN && divisor == -1) return INT_MAX;
         int res = 0, tmp = 1;
-        bool flag = (dividend > 0) ^ (divisor > 0) ? false:true;
+        bool flag = (dividend > 0) ^ (divisor > 0);
         long long divd = labs(dividend);
         long long divr = labs(divisor);
         while(divd >= divr){
@@ -23,7 +23,7 @@ public:
             divd -= temp;
             res += tmp;
         }
-        return flag ? res: -res;
+        return flag ? -res: res;
     }
 };
 

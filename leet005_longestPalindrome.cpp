@@ -61,29 +61,31 @@ public:
                 r = l + d - 1;
                 int mid = d / 2;
                 bool flag = true;
-                // if(d & 1){
-                    // for(int k = 0; k < mid; k++){
-                        // if(s[l+k] != s[r-k]){
-                            // flag = false;
-                            // break;
-                        // }
-                    // }
-                    // if(flag){
-                        // d = 0;
-                        // break;
-                    // }
-                // }else{
-                    // for(int k = 0; k < mid; k++){
-                        // if(s[l+k] != s[r-k]){
-                            // flag = false;
-                            // break;
-                        // }
-                    // }
-                    // if(flag){
-                        // d = 0;
-                        // break;
-                    // }
-                // }
+                
+/*                 if(d & 1){
+                    for(int k = 0; k < mid; k++){
+                        if(s[l+k] != s[r-k]){
+                            flag = false;
+                            break;
+                        }
+                    }
+                    if(flag){
+                        d = 0;
+                        break;
+                    }
+                }else{
+                    for(int k = 0; k < mid; k++){
+                        if(s[l+k] != s[r-k]){
+                            flag = false;
+                            break;
+                        }
+                    }
+                    if(flag){
+                        d = 0;
+                        break;
+                    }
+                } */
+                
                 for(int k = 0; k < mid; k++){
                     if(s[l+k] != s[r-k]){
                         flag = false;
