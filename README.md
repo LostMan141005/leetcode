@@ -87,5 +87,15 @@
 		<td><a href="https://leetcode.com/problems/next-permutation/description/">31. Next Permutation</a></td>
 		<td>leet031_nextPermutation.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/longest-valid-parentheses/description/">32. Longest Valid Parentheses</a></td>
+		<td>leet032_longestValidParentheses.cpp</td>
+	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">33. Search in Rotated Sorted Array</a></td>
+		<td>leet033_search.cpp</td>
+	</tr>
 </table>
 
