@@ -103,5 +103,6 @@
 		<td>leet034_searchRange.cpp</td>
 	</tr>
 </table>
-Name|Description
--|-
+
+1. |Name|Description|    
+2. |-|-|
