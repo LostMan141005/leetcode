@@ -97,5 +97,11 @@
 		<td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/">33. Search in Rotated Sorted Array</a></td>
 		<td>leet033_search.cpp</td>
 	</tr>
+    </tr>
+        <tr>
+		<td><a href="https://leetcode.com/problems/search-for-a-range/description/">34. Search for a Range</a></td>
+		<td>leet034_searchRange.cpp</td>
+	</tr>
 </table>
-
+Name|Description
+-|-
