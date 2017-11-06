@@ -21,3 +21,5 @@
 |[32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|leet032_longestValidParentheses.cpp|
 |[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|leet033_search.cpp|
 |[34. Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|leet034_searchRange.cpp|
+|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|leet035_searchInsert.cpp|
+|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|leet036_isValidSudoku.cpp|
