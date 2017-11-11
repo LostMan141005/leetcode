@@ -16,15 +16,15 @@ public:
 					return false;
 				}
 			}
-			if(0 == i/3) {
-				for(int k = 0; k < 9; k +=3) {
+			if(0 == i % 3) {
+				for(int k = 0; k < 9; k+=3) {
                     int arr[256] = {0};
                     for(int j = 0; j < 3; j++){
-                        ++arr[board[i+j+k][i+0]];
-                        ++arr[board[i+j+k][i+1]];
-                        ++arr[board[i+j+k][i+2]];
-                        if((arr[board[i+j+k][0]] > 1 && board[i+j+k][0] != '.') || (arr[board[i+j+k][1]] > 1 && board[i+j+k][1] != '.') || (arr[board[i+j+k][2]] > 1 && board[i+j+k][2] != '.')) {
-						return false;
+                        ++arr[board[j+k][i+0]];
+                        ++arr[board[j+k][i+1]];
+                        ++arr[board[j+k][i+2]];
+                        if((arr[board[j+k][i+0]] > 1 && board[j+k][i+0] != '.') || (arr[board[j+k][i+1]] > 1 && board[j+k][i+1] != '.') || (arr[board[j+k][i+2]] > 1 && board[j+k][i+2] != '.')) {
+                            return false;
                         }
                     }
 				}
