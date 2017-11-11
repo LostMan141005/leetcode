@@ -4,8 +4,8 @@
 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|leet005_longestPalindrome.cpp|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|leet006_convert.cpp|
 |[15. 3Sum](https://leetcode.com/problems/3sum/description/)|leet015_threeSum.cpp|
-|[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|leet16_threeSumClosest.cpp|
-|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|leet17_letterCombinations.cpp|
+|[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|leet016_threeSumClosest.cpp|
+|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|leet017_letterCombinations.cpp|
 |[18. 4Sum](https://leetcode.com/problems/4sum/description/)|leet018_fourSum.cpp|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|leet019_removeNthFromEnd.cpp|
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|leet020_isValid.cpp|
