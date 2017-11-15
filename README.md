@@ -23,3 +23,7 @@
 |[34. Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|leet034_searchRange.cpp|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|leet035_searchInsert.cpp|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|leet036_isValidSudoku.cpp|
+
+|[38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|leet038_countAndSay.cpp|
+|[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)|leet039_combinationSum.cpp|
+|[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/discuss/)|leet040_combinationSum2.cpp|
