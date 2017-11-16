@@ -27,3 +27,4 @@
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/description/)|leet038_countAndSay.cpp|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)|leet039_combinationSum.cpp|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/discuss/)|leet040_combinationSum2.cpp|
+|[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|leet041_firstMissingPositive.cpp|
